@@ -27,4 +27,4 @@ Some professional projects shown on this profile are shared in a sanitized or de
 ## Contact
 
 * Email: [Eliaskhalil851@gmail.com](mailto:Eliaskhalil851@gmail.com)
-* LinkedIn: add your LinkedIn link here
+* LinkedIn: [Elias Khalil](https://www.linkedin.com/in/elias-khalil-aa6873246/)
