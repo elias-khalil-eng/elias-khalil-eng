@@ -1,6 +1,6 @@
 # Hi, I'm Elias Khalil 👋
 
-Computer & Communication Engineering student with hands-on experience in backend development, automation, databases, and full-stack applications. I enjoy building practical systems that solve real problems and improve workflows.
+Computer & Communication Engineering Graduate with hands-on experience in backend development, automation, databases, and full-stack applications. I enjoy building practical systems that solve real problems and improve workflows.
 
 ## About Me
 
